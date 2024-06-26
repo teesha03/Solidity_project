@@ -1,6 +1,6 @@
 # My Token Contract
 
-TThis is a simple ERC20 token contract written in Solidity. It has the following features:
+This is a simple ERC20 token contract written in Solidity. It has the following features:
 - Public variable to store the token name, abbreviation and total supply
 - a mapping of addresses to balances
 - a mint function to increase the total supply and balance of a specified address
